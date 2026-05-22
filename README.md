@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Building+Intelligent+Systems+%F0%9F%A4%96;RAG+%7C+Computer+Vision+%7C+NLP;Local+AI+%E2%80%94+No+Cloud+Required+%E2%9A%A1;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- SOCIAL -->
 <a href="https://linkedin.com/in/intissar-layad-07444b377" target="_blank">
@@ -43,78 +43,18 @@ class IntissarLayad:
 - 🌍 Passionate about **applying AI to Moroccan culture & heritage**
 - ⚡ Philosophy : **Local AI first** — powerful systems, zero cloud dependency
 - 💬 Ask me about **Python · ML pipelines · Vector databases · LLMs**
-- 📫 **[intissarlayad8@gmail.com](mailto:intissarlayad8@gmail.com)**
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+| | Project | Stack | Description |
+|---|---|---|---|
+| 🕌 | **[Visual RAG — Moroccan Landmarks](https://github.com/intissar-layad/Visual-RAG-Moroccan-Landmarks-Identification)** | `CLIP` `ChromaDB` `Ollama` `Streamlit` | Fully local visual RAG system — identifies Moroccan landmarks from a photo & generates rich historical fiches via on-device LLM. Zero cloud APIs. Multilingual: FR · EN · Darija. |
+| 🧺 | **[Tohfa — Moroccan Crafts E-Commerce](https://github.com/intissar-layad/tohfa)** | `Flask` `MySQL` `Scikit-Learn` `TF-IDF` | Dynamic e-commerce platform showcasing Moroccan craftsmanship with an AI-powered NLP recommendation engine (TF-IDF + Cosine Similarity). |
+| 📚 | **[LireO — Digital Library System](https://github.com/intissar-layad/LireO_Digital_Library)** | `PHP` `MySQL` `Tailwind CSS` `MVC` | Web-based library management platform on clean MVC architecture with UML modeling and relational DB design for scalable resource management. |
 
-<td width="33%" valign="top">
-
-### 🕌 Visual RAG — Moroccan Landmarks
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-8B3A0F?style=flat-square&logo=github)](https://github.com/intissar-layad/Visual-RAG-Moroccan-Landmarks-Identification)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter)
-
-Fully **local** Visual RAG system — identifies Moroccan tourist landmarks from a photo and generates rich historical fiches via on-device LLM. **Zero cloud APIs.**
-
-**Pipeline:** `CLIP` → `ChromaDB` → `Ollama` → `Streamlit`
-
-**Highlights:**
-- 🔍 512D cosine similarity image search
-- 🌐 Auto Wikipedia fallback for unknown landmarks
-- 🗺️ GPS map · Side-by-side comparison
-- 🌍 Multilingual: FR · EN · Darija
-- 📊 Session stats · Precision@1 evaluation
-
-`Python` `CLIP` `ChromaDB` `Ollama` `Streamlit` `Wikipedia API`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧺 Tohfa — Moroccan Crafts E-Commerce
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-EA4335?style=flat-square&logo=github)](https://github.com/intissar-layad/tohfa)
-![HTML](https://img.shields.io/badge/Flask-Python-000000?style=flat-square&logo=flask)
-
-Dynamic e-commerce platform to **showcase and sell Moroccan craftsmanship**, with an AI-powered content-based recommendation engine.
-
-**Pipeline:** `Flask` → `MySQL` → `TF-IDF + Cosine Similarity`
-
-**Highlights:**
-- 🤖 NLP Recommendation System (TF-IDF)
-- 🔐 Secure user authentication
-- 🛒 Real-time item matching engine
-- 📦 Relational data for products & orders
-
-`Python` `Flask` `MySQL` `Scikit-Learn` `TF-IDF` `NLP`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📚 LireO — Digital Library System
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1572B6?style=flat-square&logo=github)](https://github.com/intissar-layad/LireO_Digital_Library)
-![PHP](https://img.shields.io/badge/PHP-MVC-777BB4?style=flat-square&logo=php)
-
-Comprehensive **web-based library management platform** built on clean MVC architecture for scalable resource and member management.
-
-**Stack:** `PHP` → `MySQL` → `Tailwind CSS`
-
-**Highlights:**
-- 🏗️ Clean MVC architecture
-- 📐 UML system modeling & relational DB design
-- 📱 Responsive UI via Tailwind CSS
-- 🔗 Book–author–member borrowing relations
-
-`PHP` `MySQL` `Tailwind CSS` `MVC` `UML`
-
-</td>
-
-</tr>
-</table>
+> 💡 *More projects coming soon — currently building in stealth mode* 🛠️
 
 ---
 
@@ -157,6 +97,18 @@ Comprehensive **web-based library management platform** built on clean MVC archi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=intissar-layad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intissar-layad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
