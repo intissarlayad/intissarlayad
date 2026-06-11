@@ -1,164 +1,136 @@
-# [ INTISSAR_LAYAD ]
+<div align="center">
 
-![Cyber Banner](./cyber_header.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a14,70:0d1b2a,100:0d1117&height=280&section=header&text=INTISSAR%20LAYAD&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Engineering%20Student%20%7C%20ENSAM%20Meknes&descSize=15&descAlignY=62&descColor=3FB950" width="100%" alt="header"/>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=3FB950&center=true&vCenter=true&width=750&lines=Computer+Vision+%7C+RAG+Architectures+%7C+Predictive+ML;Engineering+clean+pipelines+and+useful+AI+interfaces;ENSAM+Meknes+%E2%80%94+Building+for+Healthcare%2C+Industry+%26+Culture;Open+to+Internships+%26+Research+Collaborations" alt="Typing"/>
 
-[![Explore Deployments](https://img.shields.io/badge/EXPLORE_DEPLOYMENTS-3FB950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intissarlayad?tab=repositories)
-[![Establish Connection](https://img.shields.io/badge/ESTABLISH_CONNECTION-0B0F19?style=for-the-badge&logoColor=8B949E)](mailto:intissarlayad8@gmail.com)
+<br><br>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/intissar-layad-07444b377)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intissarlayad8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intissarlayad)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-3FB950?style=for-the-badge)](https://linkedin.com/in/intissar-layad-07444b377)
 
-**LOC:** ENSAM MEKNES, MOROCCO  
-**FOCUS:** VISION, ML & DATA PRODUCT DEV
-
----
-
-## 01. PROFILE_DIAGNOSTICS
-
-```yaml
-Host:            Intissar Layad
-Status:          Active Node (AI & Data Science Student)
-Academy:         ENSAM Meknes (Morocco)
-Mission:         Design robust data pipelines, clean user interfaces, and measurable outcomes.
-Languages:       French (Bilingual) // English (Professional) // Darija (Native)
-```
-
----
-
-## 02. CORE_CAPABILITIES
-
-| Area | Technologies |
-|---|---|
-| **LANGUAGES** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **AI & MACHINE LEARNING** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **DATA SCIENCE** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-FF007F?style=flat-square) ![Prophet](https://img.shields.io/badge/Prophet-Forecasting-00F0FF?style=flat-square) |
-| **VISION & RETRIEVAL** | ![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose%20Tracking-0097A7?style=flat-square) ![CLIP](https://img.shields.io/badge/CLIP-Multimodal-58a6ff?style=flat-square) ![Vector Search](https://img.shields.io/badge/Vector%20Search-ChromaDB-E97627?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-System%20Design-3fb950?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-Orchestration-8b5cf6?style=flat-square) |
-| **WEB & APPLICATIONS** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **DATABASES & PIPELINES** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
----
-
-## 03. ACTIVE_DEPLOYMENTS
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="right"><small><code>NODE:01</code></small></div>
-      <p><b>VISION // STREAMLIT</b></p>
-      <h3><b>KineAssist</b></h3>
-      <p>AI-assisted physical therapy platform leveraging real-time camera pose estimation to track rehabilitation, count repetitions, and score exercise execution quality.</p>
-      <p><code>Python</code> <code>MediaPipe</code> <code>Streamlit</code> <code>SQLite</code></p>
-      <br>
-      <a href="https://github.com/intissarlayad/kineassist"><b>DECRYPT REPOSITORY &gt;</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <div align="right"><small><code>NODE:02</code></small></div>
-      <p><b>XGBOOST // FORECAST</b></p>
-      <h3><b>MatriskAI</b></h3>
-      <p>Supply chain intelligence pipeline analyzing QML &amp; ASL quality records to predict material risks, flag supplier anomalies, and recommend mitigation rules.</p>
-      <p><code>Python</code> <code>XGBoost</code> <code>Prophet</code> <code>SHAP</code> <code>Docker</code></p>
-      <br>
-      <a href="https://github.com/intissarlayad/MatriskAI"><b>DECRYPT REPOSITORY &gt;</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="right"><small><code>NODE:03</code></small></div>
-      <p><b>CLIP // VECTOR DB</b></p>
-      <h3><b>Visual RAG Landmarks</b></h3>
-      <p>Multimodal retrieval architecture designed to identify Moroccan historical sites from photos and retrieve bilingual cultural history documents.</p>
-      <p><code>CLIP</code> <code>ChromaDB</code> <code>LLMs</code> <code>RAG</code> <code>Python</code></p>
-      <br>
-      <a href="https://github.com/intissarlayad/Visual-RAG-Moroccan-Landmarks-Identification"><b>DECRYPT REPOSITORY &gt;</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <div align="right"><small><code>NODE:04</code></small></div>
-      <p><b>FLASK // TF-IDF</b></p>
-      <h3><b>Tohfa Platform</b></h3>
-      <p>Moroccan crafts e-commerce web platform integrating a database catalogue and an NLP recommendation engine matching items by descriptive similarity.</p>
-      <p><code>Flask</code> <code>Scikit-Learn</code> <code>TF-IDF</code> <code>SQLite</code> <code>Python</code></p>
-      <br>
-      <a href="https://github.com/intissarlayad/tohfa"><b>DECRYPT REPOSITORY &gt;</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="right"><small><code>NODE:05</code></small></div>
-      <p><b>PHP // MVC // SQL</b></p>
-      <h3><b>LireO Library</b></h3>
-      <p>Structured digital library management system applying object-oriented MVC design pattern, relational database modeling, and automated workflows.</p>
-      <p><code>PHP</code> <code>MySQL</code> <code>Tailwind CSS</code> <code>MVC Pattern</code></p>
-      <br>
-      <a href="https://github.com/intissarlayad/LireO_Digital_Library"><b>DECRYPT REPOSITORY &gt;</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <div align="right"><small><code>NODE:06</code></small></div>
-      <p><b>HTML // STATIC CSS</b></p>
-      <h3><b>Tohfa Showcase</b></h3>
-      <p>Lightweight, highly structured frontend product catalog presenting handcrafted traditional Moroccan items with clean interface grids.</p>
-      <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>UI Design</code></p>
-      <br>
-      <a href="https://github.com/intissarlayad/tohfa-catalogue"><b>DECRYPT REPOSITORY &gt;</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 04. ESTABLISH_COMMUNICATION
-
-Interested in collaborations, internships, or discussing AI-driven engineering pipelines? Send a message through the system portals.
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:intissarlayad8@gmail.com">
-        <img src="https://img.shields.io/badge/SECURE_EMAIL-intissarlayad8@gmail.com-3FB950?style=for-the-badge&logo=gmail&logoColor=white" alt="Secure Email" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/intissar-layad-07444b377" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LINKEDIN_COMS-intissar--layad--07444b377-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/intissarlayad" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/REPOSITORIES-github.com/intissarlayad-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### System Diagnostics & Activity
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=intissarlayad&show_icons=true&bg_color=06090f&title_color=00f0ff&text_color=8b949e&icon_color=3fb950&hide_border=true&count_private=true" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=intissarlayad&background=06090f&title=00f0ff&currStreakLabel=ff007f&currStreakNum=ffffff&fire=3fb950&ring=00f0ff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="Streak" />
-    </td>
-  </tr>
-</table>
 </div>
 
 ---
 
 <div align="center">
 
-![System Accesses](https://komarev.com/ghpvc/?username=intissarlayad&color=00f0ff&style=flat-square&label=SYSTEM+ACCESSES)
+*Building intelligent, data-driven systems that connect machine learning models with real-world impact —*
+*from clinical rehabilitation and industrial risk detection to cultural heritage discovery.*
+
+</div>
+
+---
+
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp;&nbsp; COMPUTER VISION &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; RAG SYSTEMS &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; PREDICTIVE ML &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; DATA PRODUCTS &nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---:|:---:|
+| Pose Estimation · Body Tracking | Multimodal Retrieval · LLMs | XGBoost · Forecasting · SHAP | Dashboards · Pipelines · APIs |
+
+</div>
+
+---
+
+## ACTIVE_DEPLOYMENTS
 
 <br>
 
-SECURE CONNECTION ESTABLISHED. READY FOR DEPLOYMENT.
+**NODE:01 — KineAssist**
+&nbsp;&nbsp;AI-assisted physiotherapy platform with real-time pose estimation, session tracking, and clinical PDF reporting.
+&nbsp;&nbsp;`Python` `MediaPipe` `Streamlit` `SQLite` &nbsp;&nbsp;→&nbsp;&nbsp; [github.com/intissarlayad/kineassist](https://github.com/intissarlayad/kineassist)
+
+<br>
+
+**NODE:02 — MatriskAI**
+&nbsp;&nbsp;Supply chain risk intelligence engine — anomaly detection, risk scoring, forecasting, and prescriptive action plans.
+&nbsp;&nbsp;`Python` `XGBoost` `Prophet` `SHAP` `Docker` &nbsp;&nbsp;→&nbsp;&nbsp; [github.com/intissarlayad/MatriskAI](https://github.com/intissarlayad/MatriskAI)
+
+<br>
+
+**NODE:03 — Visual RAG Moroccan Landmarks**
+&nbsp;&nbsp;Multimodal retrieval system identifying Moroccan heritage sites from images with multilingual cultural context generation.
+&nbsp;&nbsp;`CLIP` `ChromaDB` `RAG` `LLMs` `Python` &nbsp;&nbsp;→&nbsp;&nbsp; [github.com/intissarlayad/Visual-RAG-Moroccan-Landmarks-Identification](https://github.com/intissarlayad/Visual-RAG-Moroccan-Landmarks-Identification)
+
+<br>
+
+**NODE:04 — Tohfa Platform**
+&nbsp;&nbsp;Moroccan crafts e-commerce platform with an NLP recommendation layer matching products by descriptive similarity.
+&nbsp;&nbsp;`Flask` `Scikit-Learn` `TF-IDF` `MySQL` &nbsp;&nbsp;→&nbsp;&nbsp; [github.com/intissarlayad/tohfa](https://github.com/intissarlayad/tohfa)
+
+<br>
+
+**NODE:05 — LireO Digital Library**
+&nbsp;&nbsp;Full MVC digital library management system with relational data modeling and automated operational workflows.
+&nbsp;&nbsp;`PHP` `MySQL` `Tailwind CSS` `UML` &nbsp;&nbsp;→&nbsp;&nbsp; [github.com/intissarlayad/LireO_Digital_Library](https://github.com/intissarlayad/LireO_Digital_Library)
+
+<br>
+
+**NODE:06 — Tohfa Showcase**
+&nbsp;&nbsp;Elegant product catalogue frontend for handcrafted Moroccan items with structured UI grids and clean design language.
+&nbsp;&nbsp;`HTML5` `CSS3` `JavaScript` &nbsp;&nbsp;→&nbsp;&nbsp; [github.com/intissarlayad/tohfa-catalogue](https://github.com/intissarlayad/tohfa-catalogue)
+
+---
+
+## CORE_CAPABILITIES
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-FF007F?style=flat-square)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-Forecasting-00F0FF?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose_Tracking-0097A7?style=flat-square)
+![CLIP](https://img.shields.io/badge/CLIP-Multimodal-58a6ff?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Search-E97627?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-RAG_Systems-8b5cf6?style=flat-square)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## ESTABLISH_COMMUNICATION
+
+<div align="center">
+
+*Interested in internships, academic collaborations, or AI-driven engineering projects?*
+
+<br>
+
+[![SECURE_EMAIL](https://img.shields.io/badge/intissarlayad8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intissarlayad8@gmail.com)
+&nbsp;
+[![LINKEDIN](https://img.shields.io/badge/intissar--layad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/intissar-layad-07444b377)
+&nbsp;
+[![GITHUB](https://img.shields.io/badge/intissarlayad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intissarlayad)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=ffffff" width="100%" alt="footer"/>
 
 </div>
