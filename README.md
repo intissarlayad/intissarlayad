@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a14,70:0d1b2a,100:0d1117&height=280&section=header&text=INTISSAR%20LAYAD&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Engineering%20Student%20%7C%20ENSAM%20Meknes&descSize=15&descAlignY=62&descColor=3FB950" width="100%" alt="header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=52&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=INTISSAR+LAYAD" alt="name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=900&color=3FB950&center=true&vCenter=true&width=750&height=40&lines=AI+%26+Data+Science+Engineering+Student+%7C+ENSAM+Meknes;Computer+Vision+%7C+RAG+Systems+%7C+Predictive+ML+%7C+Data+Products;Building+end-to-end+AI+systems+that+solve+real-world+problems;Open+to+Internships+%26+Research+Collaborations" alt="subtitle"/>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=3FB950&center=true&vCenter=true&width=750&lines=Computer+Vision+%7C+RAG+Architectures+%7C+Predictive+ML;Engineering+clean+pipelines+and+useful+AI+interfaces;ENSAM+Meknes+%E2%80%94+Building+for+Healthcare%2C+Industry+%26+Culture;Open+to+Internships+%26+Research+Collaborations" alt="Typing"/>
-
-<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/intissar-layad-07444b377)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intissarlayad8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intissarlayad)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-3FB950?style=for-the-badge)](https://linkedin.com/in/intissar-layad-07444b377)
+[![Status](https://img.shields.io/badge/Open%20to%20Internships-3FB950?style=for-the-badge)](https://linkedin.com/in/intissar-layad-07444b377)
 
 </div>
 
@@ -124,13 +122,12 @@
 <br>
 
 [![SECURE_EMAIL](https://img.shields.io/badge/intissarlayad8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intissarlayad8@gmail.com)
-&nbsp;
 [![LINKEDIN](https://img.shields.io/badge/intissar--layad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/intissar-layad-07444b377)
 &nbsp;
 [![GITHUB](https://img.shields.io/badge/intissarlayad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intissarlayad)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=ffffff" width="100%" alt="footer"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=intissarlayad&color=3fb950&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
