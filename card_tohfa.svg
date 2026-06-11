@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 180" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;family=Space+Mono:wght@400;700&amp;display=swap');
+      
+      .bg { fill: #0b0e14; stroke: rgba(255, 170, 0, 0.2); stroke-width: 1.5; rx: 6px; }
+      .text-title { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 700; fill: #ffffff; }
+      .text-sub { font-family: 'Space Mono', monospace; font-size: 9px; fill: #8b949e; letter-spacing: 1.5px; }
+      .text-tag { font-family: 'Space Mono', monospace; font-size: 9px; fill: #ffaa00; }
+      .tag-bg { fill: rgba(255, 170, 0, 0.08); stroke: rgba(255, 170, 0, 0.2); stroke-width: 1; rx: 3px; }
+      .grid-lines { stroke: rgba(255, 255, 255, 0.02); stroke-width: 1; }
+      
+      /* Islamic Geometric Art / Matrix nodes styling */
+      .geometry-frame { stroke: rgba(255, 170, 0, 0.12); stroke-width: 1; fill: none; }
+      .geometry-core { stroke: #ffaa00; stroke-width: 1.5; fill: none; filter: url(#glow-gold); }
+      .recommender-ring { stroke: #00f0ff; stroke-width: 1; fill: none; stroke-dasharray: 4 4; }
+      
+      /* Animations */
+      .scan {
+        animation: grid-scan 4s infinite ease-in-out;
+      }
+      .rotate-pattern {
+        transform-origin: 65px 90px;
+        animation: rot 20s infinite linear;
+      }
+      .rotate-ring {
+        transform-origin: 65px 90px;
+        animation: rot-back 12s infinite linear;
+      }
+      .node-pulse {
+        animation: pulse-node 2s infinite ease-in-out;
+      }
+      .blink {
+        animation: blinker 1.8s infinite step-end;
+      }
+
+      @keyframes grid-scan {
+        0%, 100% { transform: translateY(0); opacity: 0.1; }
+        50% { transform: translateY(180px); opacity: 0.5; }
+      }
+      @keyframes rot {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes rot-back {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      @keyframes pulse-node {
+        0%, 100% { r: 3; fill-opacity: 1; }
+        50% { r: 5; fill-opacity: 0.5; }
+      }
+      @keyframes blinker {
+        50% { opacity: 0.4; }
+      }
+    </style>
+
+    <filter id="glow-gold" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="380" height="180" class="bg" />
+
+  <!-- Technical Grid Overlay -->
+  <g>
+    <line x1="30" y1="0" x2="30" y2="180" class="grid-lines" />
+    <line x1="60" y1="0" x2="60" y2="180" class="grid-lines" />
+    <line x1="90" y1="0" x2="90" y2="180" class="grid-lines" />
+    <line x1="120" y1="0" x2="120" y2="180" class="grid-lines" />
+    <line x1="150" y1="0" x2="150" y2="180" class="grid-lines" />
+    
+    <line x1="0" y1="30" x2="380" y2="30" class="grid-lines" />
+    <line x1="0" y1="60" x2="380" y2="60" class="grid-lines" />
+    <line x1="0" y1="90" x2="380" y2="90" class="grid-lines" />
+    <line x1="0" y1="120" x2="380" y2="120" class="grid-lines" />
+    <line x1="0" y1="150" x2="380" y2="150" class="grid-lines" />
+  </g>
+
+  <!-- Animated Scanner -->
+  <line x1="0" y1="0" x2="380" y2="0" stroke="#ffaa00" stroke-width="1" class="scan" />
+
+  <!-- Mosaic-Tech Pattern (Left side) -->
+  <g>
+    <!-- Background grid -->
+    <circle cx="65" cy="90" r="40" stroke="rgba(255,170,0,0.06)" fill="none" />
+    <circle cx="65" cy="90" r="50" class="recommender-ring rotate-ring" />
+
+    <!-- Rotating Moroccan Octagram (Geometric Star) -->
+    <g class="rotate-pattern">
+      <!-- Two overlapping squares offset by 45 degrees -->
+      <rect x="35" y="60" width="60" height="60" class="geometry-frame" />
+      <rect x="35" y="60" width="60" height="60" class="geometry-frame" transform="rotate(45, 65, 90)" />
+      
+      <!-- Inner star details -->
+      <polygon points="65,40 73,58 90,65 73,72 65,90 57,72 40,65 57,58" class="geometry-core" />
+      <polygon points="65,50 70,60 80,65 70,70 65,80 60,70 50,65 60,60" stroke="#00f0ff" stroke-width="1" fill="none" />
+      
+      <!-- Outer star nodes -->
+      <circle cx="65" cy="40" r="3" fill="#ffaa00" class="node-pulse" />
+      <circle cx="90" cy="65" r="3" fill="#ffaa00" class="node-pulse" />
+      <circle cx="65" cy="90" r="3" fill="#00f0ff" />
+      <circle cx="40" cy="65" r="3" fill="#ffaa00" class="node-pulse" />
+    </g>
+
+    <!-- Center point target -->
+    <circle cx="65" cy="90" r="1.5" fill="#ffffff" />
+  </g>
+
+  <!-- Project Details (Right side) -->
+  <g transform="translate(145, 35)">
+    <text x="0" y="15" class="text-title">Tohfa Platform</text>
+    <text x="0" y="32" class="text-sub">NLP RECOMMENDATION ENGINE</text>
+    
+    <!-- Code diagnostic detail -->
+    <g transform="translate(0, 48)" font-family="Space Mono, monospace" font-size="8" fill="#586069">
+      <text x="0" y="10">&gt; NLP_ENGINE: <tspan fill="#ffaa00" class="blink">TF-IDF_MATRIX_OK</tspan></text>
+      <text x="0" y="22">&gt; CODES_INDEX: COSINE_SIMILARITY</text>
+      <text x="0" y="34">&gt; DASHBOARD: FLASK_CONTROLLER_READY</text>
+    </g>
+
+    <!-- Tech Tags Grid -->
+    <g transform="translate(0, 95)">
+      <!-- Tag 1 -->
+      <rect x="0" y="0" width="45" height="18" class="tag-bg" />
+      <text x="22.5" y="12" class="text-tag" text-anchor="middle">FLASK</text>
+      
+      <!-- Tag 2 -->
+      <rect x="51" y="0" width="62" height="18" class="tag-bg" />
+      <text x="82" y="12" class="text-tag" text-anchor="middle">SCIKIT-LEARN</text>
+      
+      <!-- Tag 3 -->
+      <rect x="119" y="0" width="40" height="18" class="tag-bg" />
+      <text x="139" y="12" class="text-tag" text-anchor="middle">TF-IDF</text>
+      
+      <!-- Tag 4 -->
+      <rect x="165" y="0" width="40" height="18" class="tag-bg" />
+      <text x="185" y="12" class="text-tag" text-anchor="middle">SQLITE</text>
+    </g>
+  </g>
+
+  <!-- Design corner brackets -->
+  <path d="M 8,15 L 8,8 L 15,8" stroke="rgba(255, 170, 0, 0.4)" stroke-width="1.5" fill="none" />
+  <path d="M 372,15 L 372,8 L 365,8" stroke="rgba(255, 170, 0, 0.4)" stroke-width="1.5" fill="none" />
+  <path d="M 8,165 L 8,172 L 15,172" stroke="rgba(255, 170, 0, 0.4)" stroke-width="1.5" fill="none" />
+  <path d="M 372,165 L 372,172 L 365,172" stroke="rgba(255, 170, 0, 0.4)" stroke-width="1.5" fill="none" />
+</svg>
