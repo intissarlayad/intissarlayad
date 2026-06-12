@@ -1,12 +1,12 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                        HEADER — CYBER GRID BANNER                      -->
-<!--  Banner hébergée dans le repo (assets/header-banner.png) pour qu'elle -->
-<!--  s'affiche toujours, contrairement à capsule-render parfois bloqué.   -->
+<!--                     HEADER — ANIMATED CYBER WAVE                       -->
+<!--  Animated SVG header (capsule-render) — dynamic, lightweight, scales   -->
+<!--  to the README width instead of a heavy static banner image.          -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:00f0ff,75:8b5cf6,100:0a0a0a&height=160&section=header&text=INTISSAR%20LAYAD&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEERING%20%C2%B7%20ENSAM%20MEKN%C3%88S&descSize=14&descAlignY=60&descColor=00f0ff&animation=fadeIn" alt="Intissar Layad — AI & Data Science Engineering"/>
 
 <!-- Animated subtitle terminal -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=44&lines=%3E+initializing+neural+systems...;%3E+Computer+Vision+%7C+RAG+Systems+%7C+Predictive+ML+%7C+Data+Products;%3E+Building+end-to-end+AI+that+solves+real-world+problems;%3E+status%3A+OPEN+TO+INTERNSHIPS+%26+RESEARCH" alt="subtitle"/>
