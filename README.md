@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/header-banner.png" alt="Intissar Layad — AI & Data Science Engineering"/>
+
 
 <!-- Animated subtitle terminal -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=44&lines=%3E+initializing+neural+systems...;%3E+Computer+Vision+%7C+RAG+Systems+%7C+Predictive+ML+%7C+Data+Products;%3E+Building+end-to-end+AI+that+solves+real-world+problems;%3E+status%3A+OPEN+TO+INTERNSHIPS+%26+RESEARCH" alt="subtitle"/>
@@ -47,21 +47,7 @@ mindset:     "Turn raw data into systems that create real-world impact."
 open_to:     Internships · Research collaborations · AI engineering projects
 ```
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                              MISSION                                   -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║   Building intelligent, data-driven systems that connect ML models     ║
-║   with real-world impact — from clinical rehabilitation and industrial ║
-║   risk detection to cultural heritage discovery and e-commerce.        ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                          DOMAIN MATRIX                                 -->
