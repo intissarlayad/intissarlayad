@@ -1,10 +1,12 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                        HEADER — CYBER GRID BANNER                      -->
+<!--  Banner hébergée dans le repo (assets/header-banner.png) pour qu'elle -->
+<!--  s'affiche toujours, contrairement à capsule-render parfois bloqué.   -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00f0ff,100:8b5cf6&height=220&section=header&text=INTISSAR%20LAYAD&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEERING%20%E2%80%A2%20ENSAM%20MEKNES&descAlignY=60&descSize=16&animation=fadeIn&stroke=00f0ff&strokeWidth=1" alt="header"/>
-
 <div align="center">
+
+<img width="100%" src="./assets/header-banner.png" alt="Intissar Layad — AI & Data Science Engineering"/>
 
 <!-- Animated subtitle terminal -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=44&lines=%3E+initializing+neural+systems...;%3E+Computer+Vision+%7C+RAG+Systems+%7C+Predictive+ML+%7C+Data+Products;%3E+Building+end-to-end+AI+that+solves+real-world+problems;%3E+status%3A+OPEN+TO+INTERNSHIPS+%26+RESEARCH" alt="subtitle"/>
@@ -29,6 +31,23 @@
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Bottom.gif" alt="divider"/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                              WHOAMI                                    -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## `> whoami`
+
+```yaml
+name:        Intissar Layad
+role:        AI & Data Science Engineering Student
+school:      ENSAM Meknès (Arts et Métiers)
+location:    Morocco  🇲🇦
+focus:       Computer Vision · RAG Systems · Predictive ML · Data Products
+languages:   Arabic · French · English
+mindset:     "Turn raw data into systems that create real-world impact."
+open_to:     Internships · Research collaborations · AI engineering projects
+```
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                              MISSION                                   -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
@@ -38,7 +57,7 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║   Building intelligent, data-driven systems that connect ML models     ║
 ║   with real-world impact — from clinical rehabilitation and industrial ║
-║   risk detection to cultural heritage discovery.                       ║
+║   risk detection to cultural heritage discovery and e-commerce.        ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -56,7 +75,7 @@
 <tr>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/-COMPUTER_VISION-00f0ff?style=for-the-badge&labelColor=0a0a0a" alt=""/><br>
-  <sub>Pose Estimation<br>Body Tracking</sub>
+  <sub>Pose Estimation<br>Image Preprocessing</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/-RAG_SYSTEMS-8b5cf6?style=for-the-badge&labelColor=0a0a0a" alt=""/><br>
@@ -68,7 +87,7 @@
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/-DATA_PRODUCTS-ff2d78?style=for-the-badge&labelColor=0a0a0a" alt=""/><br>
-  <sub>Dashboards · Pipelines<br>APIs</sub>
+  <sub>Web Apps · Pipelines<br>Dashboards</sub>
 </td>
 </tr>
 </table>
@@ -117,12 +136,46 @@ Multimodal retrieval system identifying Moroccan heritage sites from images with
 
 `CLIP` `ChromaDB` `RAG` `LLMs` `Python`
 
-[`↳ view_repository`](https://github.com/intissarlayad/Visual-RAG-Moroccan-Landmarks-Identification)
+[`↳ view_repository`](https://github.com/intissarlayad/Visual_RAG_Moroccan_Landmarks_Identification)
 
 </td>
 <td width="50%" valign="top">
 
-### `NODE:04` — Tohfa Platform
+### `NODE:04` — CV Image Preprocessing
+Computer vision pipeline exploring image preprocessing techniques — filtering, transformations, and feature preparation for ML models.
+
+`Python` `OpenCV` `NumPy` `Jupyter`
+
+[`↳ view_repository`](https://github.com/intissarlayad/cv-image-preprocessing)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `NODE:05` — ReSellia
+Second-hand marketplace web platform connecting buyers and sellers with listing management and a clean transactional flow.
+
+`PHP` `MySQL` `JavaScript` `Tailwind CSS`
+
+[`↳ view_repository`](https://github.com/intissarlayad/ReSellia)
+
+</td>
+<td width="50%" valign="top">
+
+### `NODE:06` — LireO Digital Library
+MVC digital library management system with relational data modeling and automated operational workflows.
+
+`PHP` `MySQL` `Tailwind CSS` `UML`
+
+[`↳ view_repository`](https://github.com/intissarlayad/LireO)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `NODE:07` — Tohfa Platform
 Moroccan crafts e-commerce platform with an NLP recommendation layer matching products by descriptive similarity.
 
 `Flask` `Scikit-Learn` `TF-IDF` `MySQL`
@@ -130,21 +183,9 @@ Moroccan crafts e-commerce platform with an NLP recommendation layer matching pr
 [`↳ view_repository`](https://github.com/intissarlayad/tohfa)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### `NODE:05` — LireO Digital Library
-Full MVC digital library management system with relational data modeling and automated operational workflows.
-
-`PHP` `MySQL` `Tailwind CSS` `UML`
-
-[`↳ view_repository`](https://github.com/intissarlayad/LireO_Digital_Library)
-
-</td>
-<td width="50%" valign="top">
-
-### `NODE:06` — Tohfa Showcase
+### `NODE:08` — Tohfa Showcase
 Elegant product catalogue frontend for handcrafted Moroccan items with structured UI grids and clean design language.
 
 `HTML5` `CSS3` `JavaScript`
@@ -221,6 +262,9 @@ Elegant product catalogue frontend for handcrafted Moroccan items with structure
 
 <br><br>
 
+<!-- Contribution activity graph — cyber theme -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=intissarlayad&bg_color=0a0a0a&color=00f0ff&line=8b5cf6&point=ff2d78&area=true&hide_border=true" alt="activity-graph"/>
+
 </div>
 
 <br>
@@ -247,4 +291,4 @@ Elegant product catalogue frontend for handcrafted Moroccan items with structure
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:00f0ff,100:0a0a0a&height=120&section=footer&animation=fadeIn" alt="footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Bottom.gif" alt="divider"/>
