@@ -4,8 +4,9 @@
 
 <div align="center">
 
-<!-- Capsule render header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00f0ff,100:8b5cf6&height=220&section=header&text=INTISSAR%20LAYAD&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineering%20%7C%20ENSAM%20Mekn%C3%A8s&descSize=16&descColor=00f0ff&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&pause=1000&color=00F0FF&background=0A0A0A00&center=true&vCenter=true&width=900&height=80&lines=INTISSAR+LAYAD" alt="Intissar Layad"/>
+
+<sub>**AI & DATA SCIENCE ENGINEERING** &nbsp;·&nbsp; ENSAM MEKNÈS</sub>
 
 <!-- Animated subtitle terminal -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=44&lines=%3E+Computer+Vision+%7C+RAG+Systems+%7C+Predictive+ML+%7C+NLP;%3E+Building+end-to-end+AI+that+ships+to+production;%3E+9+projects+built+%C2%B7+3+deployed+live+%C2%B7+0+frameworks+wasted;%3E+From+raw+data+to+real-world+impact" alt="subtitle"/>
@@ -353,5 +354,4 @@ Clean product catalogue frontend for handcrafted Moroccan items with structured 
 
 </div>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:00f0ff,100:0a0a0a&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green/Bottom.gif" alt="divider"/>
