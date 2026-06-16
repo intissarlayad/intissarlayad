@@ -141,7 +141,7 @@ AI-assisted physiotherapy platform with **real-time pose estimation**, automated
 </td>
 <td width="50%" valign="top">
 
-### `PRIORITY:02` — MatriskAI
+### `PRIORITY:02` — MatriskAI &nbsp; [![LIVE](https://img.shields.io/badge/LIVE-00ff88?style=flat-square&labelColor=0a0a0a)](https://matriskai-boxl5ewxxjfqhh3iynmdnv.streamlit.app/)
 Supply-chain risk intelligence engine — **anomaly detection, risk scoring, time-series forecasting**, and prescriptive action plans with SHAP-powered explainability.
 
 `Python` `XGBoost` `Prophet` `SHAP` `Docker`
